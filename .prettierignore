@@ -1,0 +1,15 @@
+node_modules
+node_modules_container
+docs
+.git
+.env
+jdl/**/.jhipster/**
+.vscode-test
+**/templates/**/
+**/jdl-core.min.js
+**/generated-serialized-grammar.js
+test/fixtures/**
+dist
+coverage
+package.json
+package-lock.json
